@@ -153,6 +153,7 @@ plt.tight_layout()
 
 # In[243]:
 
+#bu degerler değiştirilerek denenebilir.
 
 miktar_sev_az = fuzz.interp_membership(b_miktar, miktar_az,22)
 miktar_sev_ort = fuzz.interp_membership(b_miktar, miktar_ort, 22)
