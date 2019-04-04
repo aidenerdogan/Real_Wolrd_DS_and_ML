@@ -66,8 +66,6 @@ for ax in (ax0, ax1, ax2):
     
 plt.tight_layout()
 
-![Ekran Resmi 2019-04-04 19 52 12](https://user-images.githubusercontent.com/24553152/55575440-85abbd80-5717-11e9-8efb-9291faa42618.png)
-
 
 
 # In[216]:
