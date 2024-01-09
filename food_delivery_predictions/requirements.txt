@@ -1,7 +1,8 @@
 numpy
 pandas
 matplotlib
-seaborn
+plotly
+seabird
 scipy
 statistics
 geopy
