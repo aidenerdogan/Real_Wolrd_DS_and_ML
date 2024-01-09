@@ -1,0 +1,47 @@
+install tight miniconda or anaconda from the link: https://docs.conda.io/en/latest/miniconda.html https://www.anaconda.com/products/distribution
+and you can install data from link: https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+
+
+
+---- installiation ------
+open terminal
+mk dir any_wheer_you_want/inventory_forecastring 
+cd inventory_forecastring
+
+#create an env fore security and modularity
+conda create -n test_env python=3.8.16 
+conda activate test_env
+
+#install prophet
+pip install pystan==2.19.1.1
+pip install prophet
+
+#install with pip or conda
+seaborn
+plotly
+statsmodels
+gc (garbage collector)
+lightgbm
+scikit-learn
+
+and some other small libraries
+
+
+
+#install tensorflow
+conda install -c apple tensorflow-deps
+python -m pip install tensorflow-macos
+python -m pip install tensorflow-metal
+
+
+# for example:
+conda install -c conda-forge statsmodels
+conda install seaborn -c conda-forge
+pip install -U scikit-learn
+conda install -c plotly plotly 
+
+
+
+
+after all installiations you can run all notebooks by themself and for data pipeline /
+you can use model file with data files same formatted training data files.
