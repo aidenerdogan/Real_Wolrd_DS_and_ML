@@ -1,7 +1,7 @@
 # Food Delivery Time Prediction Cutting Edge Realworld Problem ML Solution
 
 
-![Food Delivery](../food-delivery-time-pred-prod/imgs/boltcloneapp.jpg)
+![Food Delivery](../imgs/boltcloneapp.jpg)
 
 ### Contents
 - [Overview of the Project](#overview-of-the-project)
