@@ -1,0 +1,93 @@
+{
+    "organization": "freeCodeCamp",
+    "website": "https://www.freecodecamp.org/",
+    "formed": 2014,
+    "founder": "Quincy Larson",
+    "certifications": [
+      {
+        "name": "Responsive Web Design",
+        "courses": [
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "name": "JavaScript Algorithms and Data Structures",
+        "courses": [
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Front End Development Libraries",
+        "courses": [
+          "Bootstrap",
+          "jQuery",
+          "Sass",
+          "React",
+          "Redux"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "courses": [
+          "D3"
+        ]
+      },
+      {
+        "name": "Relational Database Course",
+        "courses": [
+          "Linux",
+          "SQL",
+          "PostgreSQL",
+          "Bash Scripting",
+          "Git and GitHub",
+          "Nano"
+        ]
+      },
+      {
+        "name": "Back End Development and APIs",
+        "courses": [
+          "MongoDB",
+          "Express",
+          "Node",
+          "NPM"
+        ]
+      },
+      {
+        "name": "Quality Assurance",
+        "courses": [
+          "Testing with Chai",
+          "Express",
+          "Node"
+        ]
+      },
+      {
+        "name": "Scientific Computing with Python",
+        "courses": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Data Analysis with Python",
+        "courses": [
+          "Numpy",
+          "Pandas",
+          "Matplotlib",
+          "Seaborn"
+        ]
+      },
+      {
+        "name": "Information Security",
+        "courses": [
+          "HelmetJS"
+        ]
+      },
+      {
+        "name": "Machine Learning with Python",
+        "courses": [
+          "Machine Learning",
+          "TensorFlow"
+        ]
+      }
+    ]
+  }
