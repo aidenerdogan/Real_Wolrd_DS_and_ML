@@ -13,7 +13,7 @@ Whether you are a beginner looking to kickstart your data science journey or an 
 ### Real-World Projects:
 Explore a diverse collection of data science and machine learning projects that cover a wide range of domains, including finance, healthcare, e-commerce, and more. Each project is carefully curated to showcase practical applications of machine learning techniques and provide hands-on experience in solving real-world problems.
 
-[bike_sharing_analysis](#bike_sharing_analysis)
+[Bike Sharing Trip Generation and Analysis](#bike-sharing-trip-generation-and-analysis)
 
 [customer_segmentation](customer_segmentation)
 
@@ -38,3 +38,6 @@ Access a comprehensive set of resources to help you excel in data science and ma
 [DS_MLE_Interview_Prep](DS_MLE_Interview_Prep)
 
 [fuzzy_logic](fuzzy_logic)
+
+[Bike Sharing Trip Generation and Analysis]()
+This project aimed to address the absence of trip data for the popular Chicago Bike sharing service, Divvy. By capturing regular snapshots of station and bike availability, a custom algorithm was developed to generate trip data. The generated data underwent thorough data wrangling, and the exciting part was analyzing and visualizing the trips on interactive folium maps. This project successfully enabled the exploration of bike movements and user patterns within the Divvy system.
