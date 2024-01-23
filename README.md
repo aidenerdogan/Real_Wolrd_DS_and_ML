@@ -16,13 +16,13 @@ Explore a diverse collection of data science and machine learning projects that 
 
 [Bike Sharing Trip Generation and Analysis](#bike-sharing-trip-generation-and-analysis)
 
-[Customer Segmentation with KNN and RFM](#customer-segmentation)
+[Customer Segmentation with KNN and RFM](#customer-segmentation-with-knn-and-rfm)
 
-[eCommerce Inventory Planning for Multiple Products using Sarimax and Prophet](#eCommerce-inventory-planning)
+[eCommerce Inventory Planning for Multiple Products using Sarimax and Prophet](#eCommerce-inventory-planning-for-multiple-products-using-sarimax-and-prophet)
 
-[fake_news_detection](fake_news_detection)
+[Fake News Detection](#fake-news-detection)
 
-[food_delivery_time_prediction](food_delivery_time_prediction)
+[Food Delivery Time Prediction](#food-delivery-time-prediction)
 
 [home_price_prediction](home_price_prediction)
 
@@ -61,6 +61,19 @@ This project aimed to segment customers using K-Nearest Neighbors (KNN) and RFM 
 
 Build a time series forecasting model that helps eCommerce merchants plan their monthly inventory purchasing for the year 2023 for multiple products on M5-Accuracy Compatation data.
 
-[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/cutomer_segmentation)
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/eCommerce_inventory_planning)
 
+## Fake News Detection
+
+By practicing this real Python NLP project of detecting Fake News,
+you will easily make a model to make difference between real and
+fake news. 
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/fake_news_detection)
+
+
+# Food Delivery Time Prediction
+The primary aim of this project is to create a model that predicts food delivery times. Its purpose is to precisely estimate how long it will take for food to reach customers. Accurate delivery predictions can significantly improve customer satisfaction, streamline delivery operations, and boost overall efficiency for food delivery platforms.
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/food_delivery_predictions)
 
