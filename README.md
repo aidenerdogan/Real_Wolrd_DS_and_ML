@@ -6,7 +6,6 @@ Whether you are a beginner looking to kickstart your data science journey or an 
 
 
 
-
 ## Features
 
 ### Real-World Projects:
@@ -24,25 +23,25 @@ Explore a diverse collection of data science and machine learning projects that 
 
 [Food Delivery Time Prediction](#food-delivery-time-prediction)
 
-[home_price_prediction](home_price_prediction)
+[Real Estate Price Prediction](#real-estate-price-prediction)
 
 ### Interview Home Tasks:
 Prepare for data science and machine learning interviews by tackling a variety of home tasks commonly encountered during the interview process. These tasks are designed to assess your problem-solving skills, critical thinking abilities, and understanding of core machine learning concepts. By practicing with these tasks, you can build confidence and enhance your performance in interviews.
 
 <!-- no toc -->
 
-[predicting_life_expactancy](predicting_life_expactancy)
+[Predicting Life Expactancy](#predicting-life-expectancy)
 
-[ride_hailing_demand_and_supply_allocation](ride_hailing_demand_and_supply_allocation)
+[Efficient Supply Allocation on Ride Hailing Platform](#efficient-supply-allocation-on-ride-hailing-platform)
 
 ### Interview Preparations: 
 Access a comprehensive set of resources to help you excel in data science and machine learning interviews. From technical interview questions and coding challenges to algorithm explanations and best practices, this repository covers all facets of interview preparations. Take advantage of the carefully curated content to sharpen your knowledge and become well-prepared for interviews.
 
 <!-- no toc -->
 
-[DS_MLE_Interview_Prep](DS_MLE_Interview_Prep)
+[Data Scientist and Machine Learning Engineer Interview Preparation](#data-scientist-and-machine-learning-engineer-interview-preparation)
 
-[fuzzy_logic](fuzzy_logic)
+[Fuzzy Logic Dishwasher Problem Solving](#fuzzy-logic-dishwasher-problem-solving)
 
 
 ## Bike Sharing Trip Generation and Analysis
@@ -77,3 +76,26 @@ The primary aim of this project is to create a model that predicts food delivery
 
 [Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/food_delivery_predictions)
 
+# Real Estate Price Prediction
+This GitHub project guides users through the process of building a real estate price prediction website. It includes steps such as model creation using scikit-learn and linear regression with the Bangalore home prices dataset from Kaggle. Additionally, a Python Flask server is implemented to handle HTTP requests, and a user-friendly website is developed using HTML, CSS, and JavaScript. The project covers various data science concepts, including data cleaning, feature engineering, and hyperparameter tuning. By following this project, users can gain practical experience in real estate price prediction and web development using popular tools and technologies.
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/home_price_prediction)
+
+# Predicting Life Expactancy
+This is a task to predict life exactancy. For more explanation and the goals understanding;
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/HomeTask-predicting_life_expectancy)
+
+
+# Efficient Supply Allocation on Ride Hailing Platform
+This task focuses on addressing the challenge of efficient supply allocation on a ride-hailing platform. The goal is to optimize the matching of drivers with rider demand in real-time. By analyzing a dataset of synthetic ride demand data, we aim to propose a solution and build a baseline model. The project also involves designing and deploying the model, communicating recommendations to drivers, and outlining an experiment to validate the solution for live operations. Through this project, we demonstrate expertise in data science fundamentals and product thinking, aiming to enhance the overall performance of the ride-hailing platform.
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/HomeTask-ride_hailing_demand_and_supply_allocation)
+
+
+
+# Data Scientist and Machine Learning Engineer Interview Preparation
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/DS_MLE_Interview_Prep)
+
+# Fuzzy Logic Dishwasher Problem Solving
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/fuzzy_logic)

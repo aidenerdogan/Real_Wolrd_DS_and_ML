@@ -1,6 +1,20 @@
+# Real Estate Price Prediction
+
 ![](model_ss.png)
 
-This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
+- This GitHub project provides a comprehensive guide on building a real estate price prediction website. The project takes you through a step-by-step process, starting from building a machine learning model using scikit-learn and linear regression. The dataset used for training the model is the Bangalore home prices dataset obtained from Kaggle.com.
+
+- The first step involves constructing the model using scikit-learn and linear regression, utilizing the features from the Bangalore home prices dataset. The model is trained to predict real estate prices based on factors such as square footage, number of bedrooms, and other relevant attributes.
+
+- The second step focuses on developing a Python Flask server that serves HTTP requests using the trained model. The Flask server acts as the backend for the website and handles the prediction requests from users.
+
+- The third component of the project is the website itself, which is built using HTML, CSS, and JavaScript. The website provides a user-friendly interface where users can input the square footage, number of bedrooms, and other property details. The website then communicates with the Python Flask server to retrieve the predicted price based on the provided information.
+
+- Throughout the project, various crucial concepts in data science are covered. This includes data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, hyperparameter tuning using GridSearchCV, and k-fold cross-validation.
+
+- From a technology and tool perspective, this project covers a range of technologies commonly used in data science and web development. It involves Python programming for building the machine learning model and the Flask server, HTML/CSS/JavaScript for the website's frontend, and libraries such as scikit-learn for machine learning tasks.
+
+- By following this project, users can gain a comprehensive understanding of the end-to-end process involved in building a real estate price prediction website. They will learn essential data science concepts and gain hands-on experience with popular tools and technologies commonly used in the field.
 
 1. Python
 2. Numpy and Pandas for data cleaning
