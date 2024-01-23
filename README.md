@@ -16,9 +16,9 @@ Explore a diverse collection of data science and machine learning projects that 
 
 [Bike Sharing Trip Generation and Analysis](#bike-sharing-trip-generation-and-analysis)
 
-[customer_segmentation](customer_segmentation)
+[Customer Segmentation with KNN and RFM](#customer-segmentation)
 
-[eCommerce_inventory_planning](eCommerce_inventory_planning)
+[eCommerce Inventory Planning for Multiple Products using Sarimax and Prophet](#eCommerce-inventory-planning)
 
 [fake_news_detection](fake_news_detection)
 
@@ -50,5 +50,17 @@ Access a comprehensive set of resources to help you excel in data science and ma
 This project aimed to address the absence of trip data for the popular Chicago Bike sharing service, Divvy. By capturing regular snapshots of station and bike availability, a custom algorithm was developed to generate trip data. The generated data underwent thorough data wrangling, and the exciting part was analyzing and visualizing the trips on interactive folium maps. This project successfully enabled the exploration of bike movements and user patterns within the Divvy system.
 
 [Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/bike_sharing_trip_generation_and_analysis)
+
+## Customer Segmentation with KNN and RFM
+
+This project aimed to segment customers using K-Nearest Neighbors (KNN) and RFM (Recency, Frequency, Monetary) analysis. By combining these techniques, the project successfully grouped customers based on their similarities and behavior patterns. This segmentation approach allowed businesses to personalize their marketing strategies and improve customer engagement.
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/cutomer_segmentation)
+
+## eCommerce Inventory Planning for Multiple Products using Sarimax and Prophet
+
+Build a time series forecasting model that helps eCommerce merchants plan their monthly inventory purchasing for the year 2023 for multiple products on M5-Accuracy Compatation data.
+
+[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/cutomer_segmentation)
 
 
