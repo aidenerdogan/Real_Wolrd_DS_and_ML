@@ -39,5 +39,5 @@ Access a comprehensive set of resources to help you excel in data science and ma
 
 [fuzzy_logic](fuzzy_logic)
 
-[Bike Sharing Trip Generation and Analysis]()
+[Bike Sharing Trip Generation and Analysis](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/bike_sharing_trip_generation_and_analysis)
 This project aimed to address the absence of trip data for the popular Chicago Bike sharing service, Divvy. By capturing regular snapshots of station and bike availability, a custom algorithm was developed to generate trip data. The generated data underwent thorough data wrangling, and the exciting part was analyzing and visualizing the trips on interactive folium maps. This project successfully enabled the exploration of bike movements and user patterns within the Divvy system.
