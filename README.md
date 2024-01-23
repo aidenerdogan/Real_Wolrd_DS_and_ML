@@ -84,13 +84,13 @@ This GitHub project guides users through the process of building a real estate p
 # Predicting Life Expactancy
 This is a task to predict life exactancy. For more explanation and the goals understanding;
 
-[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/HomeTask-predicting_life_expectancy)
+[Go To Task](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/HomeTask-predicting_life_expectancy)
 
 
 # Efficient Supply Allocation on Ride Hailing Platform
 This task focuses on addressing the challenge of efficient supply allocation on a ride-hailing platform. The goal is to optimize the matching of drivers with rider demand in real-time. By analyzing a dataset of synthetic ride demand data, we aim to propose a solution and build a baseline model. The project also involves designing and deploying the model, communicating recommendations to drivers, and outlining an experiment to validate the solution for live operations. Through this project, we demonstrate expertise in data science fundamentals and product thinking, aiming to enhance the overall performance of the ride-hailing platform.
 
-[Go To Project](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/HomeTask-ride_hailing_demand_and_supply_allocation)
+[Go To Task](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML/tree/edit_readme/HomeTask-ride_hailing_demand_and_supply_allocation)
 
 
 
